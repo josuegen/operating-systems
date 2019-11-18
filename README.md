@@ -1,2 +1,2 @@
 # operating-systems
-Codes using threads and processes.
+Codes of basic concepts oh the Operating Systems (Linux).
